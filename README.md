@@ -1,4 +1,4 @@
-# HMRC Shopping Cart Pre-Interview Programming Exercise
+
 
 ### Pre-interview Exercise for Developer Candidates
 The following exercise will assess your ability to deliver well structured and maintainable
@@ -43,3 +43,4 @@ candidates take a list of strings as input
   2. buy one, get one free on Apples
   3. or the price of 2 on Oranges
 4. Update your checkout functions accordingly
+# checkout
